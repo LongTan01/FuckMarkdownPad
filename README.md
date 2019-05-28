@@ -1,8 +1,10 @@
 # FuckMarkdownPad
 
+
+
 <a  href ="https://raw.githubusercontent.com/BeichenDream/FuckMarkdownPad/master/Release/MarkDownPad2.exe">成品(Release)下载</a>
 
-
+![avatar](https://github.com/BeichenDream/FuckMarkdownPad/blob/master/Release/readme.png)
 
 MarkdownPad注册机
 
