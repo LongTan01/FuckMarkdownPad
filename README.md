@@ -1,6 +1,9 @@
 # FuckMarkdownPad
 
-<a  href ="https://raw.githubusercontent.com/BeichenDream/FuckMarkdownPad/master/Release/MarkDownPad2.exe">编译版(Release)下载</a>
+<a  href ="https://raw.githubusercontent.com/BeichenDream/FuckMarkdownPad/master/Release/MarkDownPad2.exe">成品(Release)下载</a>
+
+
+
 MarkdownPad注册机
 
 MarkdownPad是Windows下的一个多功能Markdown编辑器。即时看到你的Markdown文件，当你创建它们的时候，看起来就像是在HTML中的一样。
